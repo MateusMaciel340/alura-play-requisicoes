@@ -83,6 +83,13 @@
       "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
+    },
+    {
+      "titulo": "Começando com Devops",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/IQ8-_khQATQ",
+      "imagem": "https://i.ytimg.com/vi/IQ8-_khQATQ/maxresdefault.jpg",
+      "id": 13
     }
   ]
 }
